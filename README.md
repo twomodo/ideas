@@ -46,6 +46,24 @@ Each idea lives in its own directory:
 Folder naming convention:  
 `{index}-{short-slug}` — e.g. `001-resume-ai`, `002-copywriter`, etc.
 
+## 🛠️ Creating New Ideas
+
+To create a new idea with all required files and structure, you can use the provided script:
+
+```bash
+# Using the script directly
+./scripts/create-idea
+
+# Or using npm
+npm run new-idea
+```
+
+This will:
+1. Ask for your idea title
+2. Create a new folder with the next available index
+3. Generate all required files with helpful templates
+4. Set up the proper structure for documenting your idea
+
 ---
 
 ## 🎯 Why We Use This Repo

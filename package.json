@@ -1,0 +1,8 @@
+{
+  "name": "twomodo-ideas",
+  "version": "1.0.0",
+  "description": "Twomodo Ideas Generator",
+  "scripts": {
+    "new-idea": "./scripts/create-idea"
+  }
+}

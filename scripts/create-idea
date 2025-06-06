@@ -1,0 +1,66 @@
+#!/bin/bash
+
+# Colors for terminal output
+GREEN='\033[0;32m'
+BLUE='\033[0;34m'
+NC='\033[0m' # No Color
+
+# Get the directory where the script is located
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+TEMPLATE_DIR="$SCRIPT_DIR/templates"
+IDEAS_DIR="$SCRIPT_DIR/../ideas"
+
+# Create ideas directory if it doesn't exist
+mkdir -p "$IDEAS_DIR"
+
+# Function to convert title to slug
+to_slug() {
+    echo "$1" | tr '[:upper:]' '[:lower:]' | sed -e 's/[^a-z0-9]/-/g' -e 's/-\+/-/g' -e 's/^-//' -e 's/-$//'
+}
+
+# Function to get next available index
+get_next_index() {
+    local max=0
+    for dir in "$IDEAS_DIR"/[0-9][0-9][0-9]-*; do
+        if [ -d "$dir" ]; then
+            local num=$(basename "$dir" | cut -d'-' -f1)
+            if [ "$num" -gt "$max" ]; then
+                max=$num
+            fi
+        fi
+    done
+    echo $((max + 1))
+}
+
+# Get idea title from user
+echo -n "Enter your idea title: "
+read title
+
+if [ -z "$title" ]; then
+    echo "Error: Title cannot be empty"
+    exit 1
+fi
+
+# Generate slug and directory name
+slug=$(to_slug "$title")
+index=$(get_next_index)
+index_padded=$(printf "%03d" $index)
+dir_name="$index_padded-$slug"
+idea_dir="$IDEAS_DIR/$dir_name"
+
+# Create idea directory
+mkdir -p "$idea_dir"
+
+# Copy and process all template files
+for template in "$TEMPLATE_DIR"/*.md; do
+    filename=$(basename "$template")
+    sed "s/{TITLE}/$title/g" "$template" > "$idea_dir/$filename"
+done
+
+# Print success message
+echo -e "\n${GREEN}✨ Created new idea: ${BLUE}$dir_name${NC}"
+echo -e "📁 Location: $idea_dir"
+echo -e "\nCreated files:"
+for file in "$idea_dir"/*; do
+    echo "- $(basename "$file")"
+done
