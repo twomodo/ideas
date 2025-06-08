@@ -52,3 +52,10 @@ Describe your target market here.
 
 ## Value Proposition
 What unique value does this idea bring?
+
+## Terminology
+[Define key terms used throughout the project documentation. Example:]
+
+- **Core Term**: Definition of core concept
+- **Industry Term**: Definition of industry-specific terminology
+- **Technical Term**: Definition of technical concept

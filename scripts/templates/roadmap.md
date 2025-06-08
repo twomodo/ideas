@@ -76,3 +76,10 @@
 - Month 3: $5K MRR
 - Month 6: $25K MRR
 - Month 12: $100K MRR
+
+## Terminology
+[Define project planning and development timeline terms. Example:]
+
+- **Planning Term**: Definition of planning-related concept
+- **Timeline Term**: Definition of timeline-related terminology
+- **Milestone Term**: Definition of milestone-related concept

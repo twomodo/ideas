@@ -66,3 +66,17 @@ Let users generate a tailored resume and cover letter in under 10 minutes with m
 ✅ No friction or signup block  
 ✅ Useful output even without user perfection  
 ✅ Collects feedback and usage data for prioritizing next steps
+
+---
+
+## Terminology
+
+- **MVP (Minimum Viable Product)**: The simplest version of a product that can provide value to users.
+- **CSAT (Customer Satisfaction)**: A metric measuring user satisfaction with a product or service.
+- **Conversion Rate**: The percentage of users who take a desired action (e.g., completing resume creation).
+- **Serverless**: A cloud computing model where the provider manages infrastructure.
+- **Authentication**: The process of verifying a user's identity.
+- **React**: A JavaScript library for building user interfaces.
+- **Next.js**: A React framework for production-grade applications.
+- **UI (User Interface)**: The visual elements through which users interact with software.
+- **Stack**: The combination of technologies used to create a software solution.

@@ -43,6 +43,19 @@
 
 ---
 
+## Terminology
+
+- **Direct Competitors**: Companies offering similar products or services targeting the same market.
+- **Indirect Competitors**: Companies solving the same problem through different approaches or products.
+- **Market Position**: A company's standing in the market relative to competitors.
+- **Market Share**: The portion of total market sales captured by a company.
+- **Market Leader**: The company with the largest market share in an industry.
+- **Differentiator**: A unique feature or characteristic that sets a product apart from competitors.
+- **Paywalls**: Restrictions that require payment to access certain features or content.
+- **UX (User Experience)**: The overall experience of a person using a product.
+
+---
+
 ## Summary
 
 While most resume tools focus on layout and templates, **Resume AI** focuses on:

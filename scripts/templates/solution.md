@@ -55,3 +55,10 @@
    - Open API
    - Custom webhook support
    - No-code automation tools
+
+## Terminology
+[Define technical terms and product-specific concepts. Example:]
+
+- **Technical Term 1**: Definition of technical concept
+- **Product Term 1**: Definition of product-specific term
+- **Industry Term 1**: Definition of industry-specific terminology

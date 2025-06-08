@@ -108,3 +108,16 @@
    - Revises resume for new roles
    - Uses cover letter generator per job
    - Gets AI feedback and career tips
+
+---
+
+## Terminology
+
+- **Persona**: A fictional character representing a user type that might use the product.
+- **User Journey**: The series of steps and interactions a user takes with a product.
+- **Pain Points**: Specific problems or frustrations that users experience.
+- **Goals**: The objectives or desired outcomes that users want to achieve.
+- **Behaviors**: The patterns of actions and decisions that users typically make.
+- **Technical Level**: A measure of a user's technological proficiency and comfort.
+- **Use Case**: A specific situation in which a product could be used to solve a problem.
+- **User Segment**: A group of users who share similar characteristics or needs.

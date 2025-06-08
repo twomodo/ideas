@@ -92,3 +92,17 @@
 - AI hiring adoption stats: Resume-now.com survey
 - Academic validation: Algorithmic Writing Assistance + ResumeFlow
 - Fairness/bias concerns in evaluation: FAIRE benchmark
+
+---
+
+## Terminology
+
+- **CAGR (Compound Annual Growth Rate)**: The annual growth rate of an investment over a specified time period.
+- **LLM (Large Language Model)**: AI models trained on vast amounts of text data.
+- **ATS (Applicant Tracking System)**: Software used by employers to manage job applications.
+- **Serverless**: A cloud computing model where the provider manages infrastructure.
+- **LocalStorage**: Web browser's built-in system for storing data locally.
+- **FAIRE benchmark**: A framework for evaluating fairness in resume evaluation systems.
+- **Time-to-hire**: The time period between posting a job and hiring a candidate.
+- **Pre-signups**: Users who express interest in a product before its launch.
+- **POC (Proof of Concept)**: A demonstration to verify that certain concepts or theories have practical potential.

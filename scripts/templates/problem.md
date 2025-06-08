@@ -60,3 +60,10 @@
 - Initial target: 200K users in year 1
 - Estimated revenue: $2M in year 1
 - Growth potential: 300% in 3 years
+
+## Terminology
+[Define key terms and concepts used in describing the problem. Example:]
+
+- **Term 1**: Definition and context
+- **Term 2**: Definition and context
+- **Term 3**: Definition and context

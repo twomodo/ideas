@@ -80,3 +80,14 @@
 - Focused launch: 200K users in year 1
 - Potential revenue: $2–4M based on freemium and pro plans
 - Strong upsell potential via motivation assistant, insights, integrations
+
+---
+
+## Terminology
+
+- **ATS (Applicant Tracking System)**: Software used by employers to collect, sort, and filter job applications.
+- **Resume**: A formal document summarizing professional experience, skills, and qualifications.
+- **CV (Curriculum Vitae)**: A detailed document of academic and professional history, typically longer than a resume.
+- **Job Description (JD)**: A formal account of employee responsibilities and qualifications for a position.
+- **CAGR (Compound Annual Growth Rate)**: A measure of annual growth rate over a specified time period.
+- **Freemium**: A business model offering basic features for free while charging for advanced features.

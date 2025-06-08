@@ -77,3 +77,10 @@
    - Daily workflows
    - Feature exploration
    - Support interaction
+
+## Terminology
+[Define user research and persona-related terms. Example:]
+
+- **User Term**: Definition of user-related concept
+- **Research Term**: Definition of research methodology term
+- **Behavior Term**: Definition of behavioral terminology

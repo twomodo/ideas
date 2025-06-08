@@ -98,3 +98,10 @@ Low Innovation
    └───────────────────
   Low        High    Market Share
 ```
+
+## Terminology
+[Define market and competition-related terms. Example:]
+
+- **Market Term**: Definition of market-related concept
+- **Competition Term**: Definition of competition-related concept
+- **Strategy Term**: Definition of strategic terminology

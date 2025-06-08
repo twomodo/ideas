@@ -54,3 +54,10 @@
 - [ ] < 1% error rate in production
 - [ ] Basic documentation complete
 - [ ] Support workflow established
+
+## Terminology
+[Define MVP and product development terms. Example:]
+
+- **Development Term**: Definition of development-related concept
+- **Product Term**: Definition of product-related terminology
+- **Process Term**: Definition of process-related concept

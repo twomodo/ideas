@@ -91,3 +91,17 @@
 - Resume completion under 7 minutes
 - CSAT ≥ 4.5
 - 20% users refer at least one new user
+
+---
+
+## Terminology
+
+- **Roadmap**: A strategic plan that defines a goal or desired outcome and includes the major steps needed to reach it.
+- **CI/CD**: Continuous Integration and Continuous Deployment, practices of automating software delivery.
+- **UVP (Unique Value Proposition)**: The primary value that a product delivers to customers.
+- **PWA (Progressive Web App)**: A website that can function like a mobile app.
+- **MRR (Monthly Recurring Revenue)**: The predictable revenue generated each month from subscriptions.
+- **CSAT**: Customer Satisfaction score, measuring user happiness with the product.
+- **Monorepo**: A version control repository containing multiple projects.
+- **API**: Application Programming Interface, enabling software components to communicate.
+- **LLM-native**: Built from the ground up to leverage Large Language Models.

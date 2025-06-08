@@ -38,6 +38,13 @@
 - Authentication methods
 - Compliance considerations
 
+## Terminology
+[Define research and documentation-related terms. Example:]
+
+- **Research Term**: Definition of research-related concept
+- **Documentation Term**: Definition of documentation-related terminology
+- **Analysis Term**: Definition of analysis-related concept
+
 ## Useful Links
 
 ### Market Research

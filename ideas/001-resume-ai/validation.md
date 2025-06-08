@@ -51,3 +51,16 @@ Interview goals:
 | Extension install rate     | >15%     |
 | Waitlist conversion rate   | >8%      |
 | Retention over 1 week      | 30%+     |
+
+---
+
+## Terminology
+
+- **A/B Testing**: Comparing two versions of a product feature to determine which performs better.
+- **Conversion Rate**: The percentage of users who take a desired action (e.g., signing up or downloading).
+- **CSAT (Customer Satisfaction Score)**: A metric measuring user satisfaction with a product or service.
+- **MRR (Monthly Recurring Revenue)**: The predictable revenue generated each month from subscriptions.
+- **Retention Rate**: The percentage of users who continue using the product over a specific period.
+- **Waitlist**: A list of potential users who have expressed interest in a product before its launch.
+- **Cohort**: A group of users who share a common characteristic or time period of signup.
+- **UVP (Unique Value Proposition)**: The unique benefit that sets a product apart from competitors.

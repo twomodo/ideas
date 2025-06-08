@@ -79,3 +79,10 @@
 - [ ] 3+ positive testimonials
 - [ ] Press coverage
 - [ ] Partnership interest
+
+## Terminology
+[Define validation and metrics-related terms. Example:]
+
+- **Metric 1**: Definition of measurement term
+- **KPI 1**: Definition of key performance indicator
+- **Process Term**: Definition of validation process terminology

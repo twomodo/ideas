@@ -33,3 +33,14 @@ For job seekers who feel overwhelmed by writing resumes, Resume AI offers a fast
 - [ ] MVP design
 - [ ] AI content prompt testing
 - [ ] Development & testing
+
+## Terminology
+
+- **Resume**: A document summarizing professional experience, skills, and qualifications.
+- **ATS (Applicant Tracking System)**: Software used by employers to screen and manage job applications.
+- **AI (Artificial Intelligence)**: Computer systems capable of performing tasks that typically require human intelligence.
+- **API Integration**: Connection between different software systems through their APIs.
+- **Browser Extension**: A small software program that customizes the browser experience.
+- **UVP (Unique Value Proposition)**: The primary value that distinguishes a product from its competitors.
+- **Job Seeker**: Someone actively looking for employment opportunities.
+- **Career Changer**: A professional transitioning between different career fields.

@@ -71,3 +71,15 @@
 5. **Built for Velocity**
    - Designed for <10-minute resume creation cycles.
    - Ideal for career-switchers, international applicants, and time-limited users.
+
+## Terminology
+
+- **LLM (Large Language Model)**: AI models trained on vast text data to understand and generate human-like text.
+- **Next.js**: A React framework for building web applications with server-side rendering capabilities.
+- **TailwindCSS**: A utility-first CSS framework for rapid UI development.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **Serverless Functions**: Cloud computing execution model where the cloud provider manages server infrastructure.
+- **API (Application Programming Interface)**: A set of rules allowing different software applications to communicate.
+- **CDN (Content Delivery Network)**: A network of servers that delivers content based on user's geographic location.
+- **MV3 (Manifest V3)**: The latest platform for developing Chrome extensions with enhanced security features.
+- **LocalStorage**: Web browser's built-in system for storing data locally on a user's device.
