@@ -19,16 +19,25 @@
    - Why: Promotes long-term well-being alongside productivity.
 
 ## Technology Stack
+
 ### Hardware
-- Custom PCB with WiFi/Bluetooth
+- Custom PCB with WiFi/Bluetooth connectivity
 - Haptic motor, LED, e-ink or OLED display
 - Optional: Camera/LiDAR for advanced features
 
 ### Software
-- React Native (mobile app)
-- Node.js backend
-- WebRTC for real-time sessions
-- Cloud database (Firebase/PostgreSQL)
+- Native iOS app (Swift/SwiftUI)
+- Native Android app (Kotlin/Jetpack Compose)
+- Supabase (backend: database, authentication, realtime)
+- WebRTC for real-time video/audio sessions
+- Optional: Node.js for custom backend logic
+
+## Approach
+
+- Start with a native iOS app to leverage the latest Apple ecosystem features and ensure best-in-class user experience.
+- Develop the Android app natively after validating the iOS MVP.
+- Use Supabase for rapid backend development, authentication, and real-time data sync.
+- Integrate with hardware via Bluetooth/WiFi for seamless device-app communication.
 
 ## Key Differentiators
 - Hybrid of physical and digital experience

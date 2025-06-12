@@ -28,3 +28,9 @@
 ## Out of Scope
 - Hardware device manufacturing (for initial MVP)
 - AI-based posture detection (for v1.0)
+- Cross-platform frameworks (e.g., Flutter)
+
+## Tech Stack for MVP
+- Native iOS app (Swift/SwiftUI)
+- Supabase backend (auth, database, realtime)
+- WebRTC for real-time audio

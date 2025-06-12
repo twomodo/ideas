@@ -12,13 +12,13 @@
 
 ### 2. Solution Validation
 **Hypothesis**: "Users will use and pay for a hybrid gadget/app that increases focus and accountability."
-- **Test Method**: MVP softphone launch, collect usage and feedback
+- **Test Method**: MVP launch (native iOS app), collect usage and feedback
 - **Success Metric**: >10% conversion to paid or continued use
 - **Timeline**: 4 weeks
 - **Status**: 🔴 Not Started
 
 ### 3. Technical Validation
-**Hypothesis**: "A softphone app can simulate the core experience of the hardware gadget."
+**Hypothesis**: "A native app can simulate the core experience of the hardware gadget."
 - **Test Method**: Build and test MVP with real users
 - **Success Metric**: >80% report positive experience
 - **Timeline**: 4 weeks
@@ -39,7 +39,7 @@
 1. How do you currently manage focus and motivation?
 2. What are your biggest challenges when working alone?
 3. How often do you feel distracted or unmotivated?
-4. What features would you want in a focus-enhancing tool?
+4. Would you use a native app or prefer a hardware device?
 
 ## Market Testing
 

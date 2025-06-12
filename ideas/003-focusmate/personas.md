@@ -27,7 +27,7 @@
 
 ### How We Help
 - Provides social accountability without heavy interaction
-- Offers physical reminders and feedback
+- Offers physical reminders and feedback (via device and native app)
 - Tracks focus and break patterns
 
 ## Persona 2: Maya (Student)
@@ -39,21 +39,21 @@
 - **Technical Level**: Medium
 
 ### Goals
-1. Study efficiently for exams
-2. Build a consistent study routine
-3. Connect with peers for motivation
+1. Stay motivated for long study sessions
+2. Prepare for exams efficiently
+3. Balance study and health
 
 ### Pain Points
 1. Gets distracted by phone and social media
-2. Lacks structure in study sessions
-3. Feels alone when studying remotely
+2. Lacks accountability when studying alone
+3. Experiences fatigue from poor posture
 
 ### Behaviors
-- Studies in short bursts
-- Joins online study groups occasionally
-- Uses Pomodoro timers
+- Studies in blocks, often late at night
+- Uses timers and study apps
+- Wants reminders to move and take breaks
 
 ### How We Help
-- Enables virtual co-study sessions
-- Provides structure and reminders
-- Encourages healthy study habits
+- Enables virtual study sessions with accountability
+- Provides ergonomic and health reminders
+- Native app ensures best experience on her device

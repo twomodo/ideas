@@ -39,4 +39,4 @@
 
 ❌ **Problems:**
 - Usually single-user, not connected
-- Rarely integrate with virtual presence or teams
+- Lack of deep integration with mobile platforms

@@ -9,9 +9,10 @@
 - [ ] Set up development environment
 
 ### Month 2: Core Development
-- [ ] Build softphone MVP (mobile app)
+- [ ] Build native iOS MVP (Swift/SwiftUI)
 - [ ] Implement virtual focus sessions and Pomodoro timer
 - [ ] Integrate push-to-talk and reporting
+- [ ] Use Supabase for backend (auth, database, realtime)
 
 ### Month 3: Testing & Launch
 - [ ] Conduct user testing with freelancers and students
@@ -22,6 +23,7 @@
 ### Month 4: Enhancement
 - [ ] Add health reminders and basic posture feedback
 - [ ] Improve session matching and reporting
+- [ ] Start native Android app (Kotlin/Jetpack Compose)
 
 ### Month 5: Integration
 - [ ] Begin hardware prototype development

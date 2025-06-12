@@ -25,9 +25,11 @@
 
 ## Focusmate Gadget Differentiators
 
+- Native iOS and Android apps for deep platform integration
 - Hybrid hardware/software experience
 - Physical button & haptic feedback
 - Connects to computer and internet
 - Ergonomics & health monitoring
 - Extremely simple and fast UX
 - Customizable actions & virtual presence
+- Supabase backend for real-time sync and authentication

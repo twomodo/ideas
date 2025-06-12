@@ -18,7 +18,8 @@
 
 ## Technical Research
 ### Architecture Options
-- Softphone MVP using React Native for cross-platform support
+- Native iOS app (Swift/SwiftUI) for MVP
+- Supabase for backend (auth, database, realtime)
 - WebRTC for real-time audio
 - Bluetooth/WiFi for future hardware integration
 
@@ -27,6 +28,8 @@
 - Privacy-first design for health data
 
 ## Terminology
-- **Softphone**: Software-based phone interface, simulating hardware experience
+- **Native App**: Built specifically for iOS or Android, not cross-platform
+- **Supabase**: Open-source backend for authentication, database, and real-time sync
 - **Push-to-talk**: Audio only when button is pressed, like a walkie-talkie
 - **Pomodoro**: Work/break timer technique
+- **Softphone**: Software-based phone interface, simulating hardware experience for MVP
